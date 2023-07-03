@@ -1,5 +1,5 @@
 // C++ program to demonstrate
-// inverted half triangle using *
+// full pyramid pattern using *
 using namespace std;
 #include <bits/stdc++.h>
 #include <iostream>
