@@ -1,5 +1,5 @@
 // C++ program to demonstrate
-// right triangle star pattern
+// inverted mirror right triangle star pattern
 using namespace std;
 #include <bits/stdc++.h>
 #include <iostream>
