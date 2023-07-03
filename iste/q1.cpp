@@ -1,5 +1,5 @@
 // C++ program to demonstrate
-// inverted half triangle using *
+// right triangle star pattern
 using namespace std;
 #include <bits/stdc++.h>
 #include <iostream>
